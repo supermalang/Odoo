@@ -1,0 +1,3 @@
+[submodule "openacademy"]
+	path = openacademy
+	url = https://github.com/HDLabsSN/openacademy.git
